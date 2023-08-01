@@ -149,6 +149,14 @@ body {
   margin: 30px 0;
 }
 
+@media (max-width: 700px) {
+  .featured-desc {
+    font-size: 12px;
+    width: 200px;
+    margin: 10px 0;
+  }
+}
+
 .featured-button {
   background-color: var(--logo-color);
   color: white;
